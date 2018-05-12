@@ -1,0 +1,38 @@
+_repo: Secret-Enemies-of-True-Republicanism--13-Most-important-developments-regarding-the-inner-life__14675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smolnikar, Andrew B. (Andreas Bernardus)
+    aliases:
+    - Smolnikar, Andreas Bernardus
+    - Smolnikar, A. B. (Andreas Bernardus)
+    birthdate: 1795
+    deathdate: 1869
+    gutenberg_agent_id: '5631'
+    url: http://www.gutenberg.org/2009/agents/5631
+    wikipedia: http://sl.wikipedia.org/wiki/Andrej_Smolnikar
+description: ''
+gutenberg_issued: '2005-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14675'
+  lccn: '11004844'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcsh 'Spirit writings'
+- !lcc 'BF'
+- !lcsh 'Clairvoyance'
+title: "Secret Enemies of True Republicanism\r\nMost important developments regarding\
+  \ the inner life of man and the spirit world, in order to abolish revolutions and\
+  \ wars and to establish permanent peace on earth, also: the plan for redemption\
+  \ of nations from monarchical and other oppresive [sic] speculations and for the\
+  \ introduction of the promised new era of harmony, truth and righteousness on the\
+  \ whole globe"
+url: http://www.gutenberg.org/ebooks/14675
