@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5631
     wikipedia: http://sl.wikipedia.org/wiki/Andrej_Smolnikar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14675#Secret-Enemies-of-True-Republicanism--13-Most-important-developments-regarding-the-inner-life_
 gutenberg_issued: '2005-01-12'
 gutenberg_type: Text
 identifiers:
